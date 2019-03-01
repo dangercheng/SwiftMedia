@@ -6,5 +6,5 @@
 Swift实现了一些音视频相关技术的demo，学习学习，提升提升。
 
 ## 1. [Capture](https://github.com/dangercheng/SwiftMedia/tree/master/Capture)
-> * 录制并保持视频到文件
+> * 录制并保存视频到文件
 > * 剪裁前10s并自动播放
